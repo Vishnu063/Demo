@@ -1,1 +1,5 @@
 index.html
+*.jpg
+!goku.jpg
+/demo
+demo/index.html

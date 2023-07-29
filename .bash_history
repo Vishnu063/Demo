@@ -38,3 +38,28 @@ git add .
 sudo su
 ls
 sudo su
+ls
+su vi index.html
+sudo vi index.html
+git stat
+git dd .
+git add .
+cd
+ls
+git add .
+git config --global --add safe.directory /home/ec2-user
+ls
+git add .
+sudo git add .
+git status
+cd demo
+ls
+cd demo
+sudo cd demo
+git stop
+git --help
+ls
+sudo su
+ls
+sudo vi index.html
+sudo su
