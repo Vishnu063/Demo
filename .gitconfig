@@ -1,3 +1,5 @@
 [user]
 	name = Vishnu
 	email = kushwahavr19@gmail.com
+[safe]
+	directory = /home/ec2-user
